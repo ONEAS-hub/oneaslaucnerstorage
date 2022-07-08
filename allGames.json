@@ -1,0 +1,26 @@
+{
+     "allGames": [
+          {
+               "name": "hasel",
+               "isFree": true,
+               "coverImageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/main/hasel/bg-hasel.jpg",
+               "quickLaunchIconUrl": "",
+               "instalWindow": {
+                    "archiveUrl": "",
+                    "coverImageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/db49391e9077e6b851535b2b7e60c49d495dc984/hasel/bg-hasel.jpg",
+                    "versions": ["Basic", "Medium", "Maximum"]
+               }
+          },
+          {
+               "name": "radmir-go",
+               "isFree": false,
+               "coverImageUrl": "",
+               "quickLaunchIconUrl": "",
+               "instalWindow": {
+                    "archiveUrl": "",
+                    "coverImageUrl": "",
+                    "versions": ["Basic", "Medium", "Maximum"]
+               }
+          }
+     ]
+}
