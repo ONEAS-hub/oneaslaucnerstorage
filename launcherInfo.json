@@ -7,7 +7,7 @@
                "quick_launch_iconUrl": "",
                "instal_window": {
                     "archive_url": "",
-                    "cover_imageUrl": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/bg-hasel.jpg",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/bg-hasel.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
@@ -23,7 +23,7 @@
                "quick_launch_iconUrl": "",
                "instal_window": {
                     "archive_url": "",
-                    "cover_imageUrl": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/bg-rgo.jpg",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/bg-rgo.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
