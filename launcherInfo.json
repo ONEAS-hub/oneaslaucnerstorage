@@ -19,11 +19,11 @@
           {
                "name": "radmir-go",
                "is_free": true,
-               "cover_image_url": "https://github.com/zFriks/oneaslaucnerstorage/blob/d80e59ef6578c77747fb011ef79744a32fcfbcfd/radmirgo/cover-radmir-go.png",
+               "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/cover-radmir-go.png",
                "quick_launch_iconUrl": "",
                "instal_window": {
                     "archive_url": "",
-                    "cover_imageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/d80e59ef6578c77747fb011ef79744a32fcfbcfd/radmirgo/bg-rgo.jpg",
+                    "cover_imageUrl": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/bg-rgo.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
