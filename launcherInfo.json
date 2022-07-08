@@ -3,11 +3,11 @@
           {
                "name": "hasel",
                "is_free": true,
-               "cover_image_url": "https://github.com/zFriks/oneaslaucnerstorage/blob/d80e59ef6578c77747fb011ef79744a32fcfbcfd/hasel/cover-hasel-online.jpg",
+               "cover_image_url": "https://github.com/zFriks/oneaslaucnerstorage/blob/35b7bbeb79793f5fa807f0ab3d3e55c930183734/hasel/cover-hasel-online.jpg",
                "quick_launch_iconUrl": "",
                "instal_window": {
                     "archive_url": "",
-                    "cover_imageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/d80e59ef6578c77747fb011ef79744a32fcfbcfd/hasel/bg-hasel.jpg",
+                    "cover_imageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/35b7bbeb79793f5fa807f0ab3d3e55c930183734/hasel/bg-hasel.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
