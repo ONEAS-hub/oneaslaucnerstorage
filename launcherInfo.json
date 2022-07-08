@@ -1,0 +1,74 @@
+{
+     "allGames": [
+          {
+               "name": "hasel",
+               "is_free": true,
+               "cover_image_url": "https://github.com/zFriks/oneaslaucnerstorage/blob/main/hasel/bg-hasel.jpg",
+               "quick_launch_iconUrl": "",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_imageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/db49391e9077e6b851535b2b7e60c49d495dc984/hasel/bg-hasel.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": ""
+          },
+          {
+               "name": "radmir-go",
+               "is_free": true,
+               "cover_image_url": "https://github.com/zFriks/oneaslaucnerstorage/blob/main/hasel/bg-hasel.jpg",
+               "quick_launch_iconUrl": "",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_imageUrl": "https://github.com/zFriks/oneaslaucnerstorage/blob/db49391e9077e6b851535b2b7e60c49d495dc984/hasel/bg-hasel.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": ""
+          }
+     ],
+     "faq": [
+          {
+               "text": "Как установить сборку?",
+               "url": "https: //plus.yandex.ru/student?utm_source=music&utm_medium=teaser&utm_campaign=student_plus",
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Как работает лаунчер? Что за что отвечает?",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкой?",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкой?",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкой?",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкой?",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкойdlawkdlawd",
+               "url": ""
+          },
+          {
+               "text": "Как играть со сборкой?",
+               "url": ""
+          }
+     ]
+}
