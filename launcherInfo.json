@@ -18,23 +18,6 @@
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300517%2Fquery"
           },
           {
-               "name": "hasel-private",
-               "is_free": false,
-               "is_privat": true,
-               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
-               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
-               "instal_window": {
-                    "archive_url": "",
-                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
-                    "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
-                    ]
-               },
-               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300517%2Fquery"
-          },
-          {
                "name": "radmir-go",
                "is_free": false,
                "is_privat": false,
