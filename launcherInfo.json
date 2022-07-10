@@ -3,11 +3,11 @@
           {
                "name": "hasel",
                "is_free": true,
-               "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover-hasel-online.jpg",
-               "quick_launch_iconUrl": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/hasel-online-icon.jpg",
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
                "instal_window": {
                     "archive_url": "",
-                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/bg-hasel.jpg",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
@@ -19,11 +19,56 @@
           {
                "name": "radmir-go",
                "is_free": false,
-               "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/cover-radmir-go.png",
-               "quick_launch_iconUrl": "",
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
                "instal_window": {
                     "archive_url": "",
-                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmirgo/bg-rgo.jpg",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": ""
+          },{
+               "name": "black-minimal",
+               "is_free": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": ""
+          },{
+               "name": "most-wanted",
+               "is_free": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": ""
+          },{
+               "name": "psg",
+               "is_free": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/cover.jpg",
                     "versions": [
                          "Basic",
                          "Medium",
