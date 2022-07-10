@@ -19,7 +19,7 @@
           },
           {
                "name": "hasel-private",
-               "is_free": true,
+               "is_free": false,
                "is_privat": true,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
