@@ -14,7 +14,7 @@
                          "Maximum"
                     ]
                },
-               "product_url": ""
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300517%2Fquery"
           },
           {
                "name": "radmir-go",
@@ -30,8 +30,9 @@
                          "Maximum"
                     ]
                },
-               "product_url": ""
-          },{
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300516%2Fquery"
+          },
+          {
                "name": "black-minimal",
                "is_free": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/preview.jpg",
@@ -45,8 +46,9 @@
                          "Maximum"
                     ]
                },
-               "product_url": ""
-          },{
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300519%2Fquery"
+          },
+          {
                "name": "most-wanted",
                "is_free": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/preview.jpg",
@@ -60,8 +62,9 @@
                          "Maximum"
                     ]
                },
-               "product_url": ""
-          },{
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300518%2Fquery"
+          },
+          {
                "name": "psg",
                "is_free": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
@@ -75,7 +78,23 @@
                          "Maximum"
                     ]
                },
-               "product_url": ""
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300521%2Fquery"
+          },
+          {
+               "name": "old-radmir",
+               "is_free": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6572441"
           }
      ],
      "faq": [
