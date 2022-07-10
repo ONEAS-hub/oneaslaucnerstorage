@@ -3,6 +3,24 @@
           {
                "name": "hasel",
                "is_free": true,
+               "is_privat": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium",
+                         "Maximum"
+                    ]
+               },
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300517%2Fquery"
+          },
+          {
+               "name": "hasel-private",
+               "is_free": true,
+               "is_privat": true,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
                "instal_window": {
@@ -19,6 +37,7 @@
           {
                "name": "radmir-go",
                "is_free": false,
+               "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
                "instal_window": {
@@ -35,6 +54,7 @@
           {
                "name": "black-minimal",
                "is_free": false,
+               "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/quick_start.jpg",
                "instal_window": {
@@ -51,6 +71,7 @@
           {
                "name": "most-wanted",
                "is_free": false,
+               "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/quick_start.jpg",
                "instal_window": {
@@ -67,6 +88,7 @@
           {
                "name": "psg",
                "is_free": false,
+               "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/quick_start.jpg",
                "instal_window": {
@@ -83,6 +105,7 @@
           {
                "name": "old-radmir",
                "is_free": false,
+               "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/quick_start.jpg",
                "instal_window": {
