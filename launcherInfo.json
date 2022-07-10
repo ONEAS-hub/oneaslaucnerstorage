@@ -17,22 +17,6 @@
                "product_url": ""
           },
           {
-               "name": "new",
-               "is_free": true,
-               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
-               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
-               "instal_window": {
-                    "archive_url": "",
-                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
-                    "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
-                    ]
-               },
-               "product_url": ""
-          },
-          {
                "name": "radmir-go",
                "is_free": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
