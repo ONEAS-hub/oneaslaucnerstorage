@@ -35,6 +35,22 @@
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300516%2Fquery"
           },
           {
+               "name": "radmir-go",
+               "is_free": true,
+               "is_privat": false,
+               "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
+               "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
+               "instal_window": {
+                    "archive_url": "",
+                    "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/cover.jpg",
+                    "versions": [
+                         "Basic",
+                         "Medium"
+                    ]
+               },
+               "product_url": "https://vk.com/market-207807490?w=product-207807490_6300516%2Fquery"
+          },
+          {
                "name": "black-minimal",
                "is_free": false,
                "is_privat": false,
