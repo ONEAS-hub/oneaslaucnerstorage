@@ -7,7 +7,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
                     "versions": [
                          "Basic",
@@ -24,7 +26,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/cover.jpg",
                     "versions": [
                          "Basic",
@@ -41,7 +45,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/cover.jpg",
                     "versions": [
                          "Basic",
@@ -57,7 +63,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/cover.jpg",
                     "versions": [
                          "Basic",
@@ -74,7 +82,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/cover.jpg",
                     "versions": [
                          "Basic",
@@ -91,7 +101,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/cover.jpg",
                     "versions": [
                          "Basic",
@@ -108,7 +120,9 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/quick_start.jpg",
                "instal_window": {
-                    "archive_url": "",
+                    "archive_url_basic": "",
+                    "archive_url_medium": "",
+                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/cover.jpg",
                     "versions": [
                          "Basic",
@@ -123,6 +137,51 @@
           {
                "text": "Как установить сборку?",
                "url": "https: //plus.yandex.ru/student?utm_source=music&utm_medium=teaser&utm_campaign=student_plus"
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          ,
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
+          },
+          {
+               "text": "Где мне взять ключ?",
+               "url": ""
           },
           {
                "text": "Где мне взять ключ?",
