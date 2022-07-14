@@ -7,10 +7,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/hasel/cover.jpg",
                     "versions": [
-                         "Бесплатная версия"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300517%2Fquery"
@@ -22,14 +24,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "",
-                    "archive_url_medium": "",
-                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/radmir-go/cover.jpg",
                     "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300516%2Fquery"
@@ -41,14 +41,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "",
-                    "archive_url_medium": "",
-                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/black-minimal/cover.jpg",
                     "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300519%2Fquery"
@@ -60,14 +58,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "",
-                    "archive_url_medium": "",
-                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/most-wanted/cover.jpg",
                     "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300518%2Fquery"
@@ -79,14 +75,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "",
-                    "archive_url_medium": "",
-                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/cover.jpg",
                     "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6300521%2Fquery"
@@ -98,14 +92,12 @@
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/quick_start.jpg",
                "instal_window": {
-                    "archive_url_basic": "",
-                    "archive_url_medium": "",
-                    "archive_url_maximum": "",
                     "cover_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/old-radmir/cover.jpg",
                     "versions": [
-                         "Basic",
-                         "Medium",
-                         "Maximum"
+                         {
+                              "titile": "Бесплатная версия",
+                              "arichive_url": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0"
+                         }
                     ]
                },
                "product_url": "https://vk.com/market-207807490?w=product-207807490_6572441"
