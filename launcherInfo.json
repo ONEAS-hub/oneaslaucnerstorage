@@ -70,7 +70,7 @@
           },
           {
                "name": "psg",
-               "is_free": false,
+               "is_free": true,
                "is_privat": false,
                "preview_image_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/preview.jpg",
                "quick_start_icon_url": "https://raw.githubusercontent.com/zFriks/oneaslaucnerstorage/main/psg/quick_start.jpg",
