@@ -12,14 +12,12 @@
                          {
                               "title": "Basic",
                               "archiveUrl": "https://dl.dropboxusercontent.com/s/vjqh5ow6srfquwy/Hassel%20Online%20%28basic%20version%29.zip?dl=0",
-                              "installerPath": "Hassel Online (basic version)\\Hassle Online.exe",
-                              "password": ""
+                              "installerPath": "Hassel Online (basic version)\\Hassle Online.exe"
                          },
                          {
                               "title": "Medium",
                               "archiveUrl": "https://dl.dropboxusercontent.com/s/x7nruj4r1m046v5/Hasel%20Online%20%28trial%20version%29.rar?dl=0",
-                              "installerPath": "",
-                              "password": "hasel"
+                              "installerPath": ""
                          }
                     ]
                },
